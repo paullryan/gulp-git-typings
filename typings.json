@@ -1,0 +1,15 @@
+{
+  "name": "gulp-git",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/stevelacy/gulp-git",
+  "version": "",
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613"
+  },
+  "ambientDevDependencies": {
+    "node": "registry:dt/node#4.0.0+20160319033040"
+  },
+  "ambientDependencies": {
+    "through2": "registry:dt/through2#2.0.0+20160317120654"
+  }
+}
